@@ -19,12 +19,12 @@ Fontdiner Swanky Font
 https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Fontdiner+Swanky
 
 
-![screenshots/screenshot-1-v1.png]  
+![](screenshots/screenshot-1-v1.png)  
 
-![screenshots/screenshot-2-v1.png]  
+![](screenshots/screenshot-2-v1.png)  
 
-![screenshots/screenshot-3-v1.png]  
+![](screenshots/screenshot-3-v1.png)  
 
-![screenshots/screenshot-4-v1.png]  
+![](screenshots/screenshot-4-v1.png)  
 
-![screenshots/screenshot-5-v1.png]  
+![](screenshots/screenshot-5-v1.png)  
