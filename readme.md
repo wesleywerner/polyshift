@@ -1,6 +1,6 @@
 # polyshift
 
-Create by Wesley "keyboard monkey" Werner
+Created by Wesley "keyboard monkey" Werner
 
 This is a Ludum Dare 35 Entry created in Löve 0.10.0
 
@@ -17,3 +17,14 @@ The song is called "polyshift" and created by me for this game entry.
 
 Fontdiner Swanky Font
 https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Fontdiner+Swanky
+
+
+![screenshots/screenshot-1-v1.png]  
+
+![screenshots/screenshot-2-v1.png]  
+
+![screenshots/screenshot-3-v1.png]  
+
+![screenshots/screenshot-4-v1.png]  
+
+![screenshots/screenshot-5-v1.png]  
